@@ -1,3 +1,2 @@
-a =1
-
-print ("a")
+def student(fname, lname):
+	pass
